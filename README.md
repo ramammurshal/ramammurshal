@@ -1,6 +1,7 @@
-## Halo semuanya!
-Aku Rama Muhammad Murshal, mahasiswa semester 3 departemen Teknologi Informasi di ITS.   
-Let's connect: [LinkedIn](https://www.linkedin.com/in/rama-muhammad-murshal-ab86041b1/)
+## Hi there!
+- Information technology student at ITS
+- A fullstack Vue-Firebase Developer
+- Currently learning MEVN stack
 
 <p align="left">
 <a href="https://github.com/ramammurshal">
