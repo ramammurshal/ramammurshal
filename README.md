@@ -1,11 +1,7 @@
-## Hi there!
-- Information technology student at ITS
-- A fullstack Vue-Firebase Developer
-- Currently learning MEVN stack
-
-<p align="left">
-<a href="https://github.com/ramammurshal">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramammurshal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramammurshal&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<h2>Hello 🙌</h2>
+<ul>
+  <li>👨‍💻 I'm <b>Ramzzzz</b>, Information Technology student at Sepuluh Nopember Institute of Technology.</li>
+  <li>🎯 I’m interested in Frontend Development.</li>
+  <li>🌱 I’m currently learning and working on Vue-JS Ecosystem <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="15" />.</li>
+  <li>💬 Open to collaborate in a projects, feel free to message me: <a href="rmurshal@gmail.com" target="_blank">rmurshal@gmail.com</a>.</li>
+</ul>
